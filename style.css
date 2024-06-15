@@ -764,10 +764,12 @@ video{
 }
 .video-section .content{
     position: relative;
-    padding: 150px;
+    padding-left: 100px;
+    padding-top: 50px;
     color: white;
     z-index: 1;
     width: 50%;
+    height: 500px;
 }
 .video-section .content p{
     color: #c59d5f;
